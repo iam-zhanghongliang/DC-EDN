@@ -18,6 +18,7 @@ We currently only open source the code for the validation experiments on WFLW. I
 Implementation details
 ------------------------
 The first step is to download the WFLW dataset from that extract password is say2 URL:https://pan.baidu.com/s/1J9OsmxZR0LHl242O2NwWtg or  https://wywu.github.io/projects/LAB/WFLW.html The dataset includes 10,000 images of which 7,500 are training images and 2500 are test images.
+
 The second step:
     (1).Adding the path of the dataset images downloaded in the second step(1) to img_folder = ("") of validate.py file 
     (2).Adding the path of test set in validate_dataset to LoadPicture("") and FACE("") of the validate.py file.
