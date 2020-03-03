@@ -11,9 +11,9 @@ Environment configuration
 We use python 3.6.2 and Pytorch 1.01 during training and testing.
 
 
-Validate
+Validation
 --------------------------
-We currently only open source the code for the validation experiments on WFLW. Implementation details and results of validation are shown below.
+We currently only publicly release the code for the validation experiments on WFLW. Implementation details and results of validation are shown below.
 
 Implementation details
 ------------------------
