@@ -3,8 +3,7 @@ DC-EDN: Densely Connected Encoder-Decoders Network With Reinforced Depthwise Con
 DC-EDN structure  
 --------------------
 The DC-EDN(4) structure is showed: 
-
-    ![](https://github.com/iam-zhanghongliang/DC-EDN/blob/master/picture/structure.png)
+![](https://github.com/iam-zhanghongliang/DC-EDN/blob/master/picture/structure.png)
 
  
 Environment configuration
